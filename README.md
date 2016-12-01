@@ -1,4 +1,5 @@
 ACCOUNT MANAGEMENT SYSTEM
+
 ABSTRACT:
 The Account Management System consists of a Stock Portfolio Account and a Bank Account. The
 Stock Portfolio Account deals with buying shares, selling shares, viewing current share value,
